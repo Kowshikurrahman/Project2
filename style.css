@@ -1,0 +1,83 @@
+.header-img{
+  background-color: #2e219a;
+}
+.header-img img{
+  width: 100px;
+}
+.green{
+  background: #008000;
+}
+.button{
+  padding: 10px 25px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+img{
+  max-width: 100%;
+}
+.hero-section{
+  background-image: url(https://i.ibb.co/Xysj4pZ/pngtree-simple-creative-background-design-in-the-sky-backgroundcartoonlovelyplanetstarry-skyillustra.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+}
+.hero-section-2{
+  background-image: url(https://i.ibb.co/dWV5JfY/pngtree-modern-double-color-futuristic-neon-background-image-351866.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+}
+.join{
+  background-color: #008000;
+}
+.join-content{
+  background-color: #ffff00;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+.about-section{
+  background-color: #4ab75c;
+  padding: 80px 0;
+}
+.pb-hobe{
+  padding-bottom: 100px;
+}
+.image{
+  width: 130px !important;
+}
+.footer{
+  background-color: #2c1a8e;
+}
+.fm li{
+  display: inline-block;
+  list-style: none;
+  margin-right: 10px;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+.fm li:hover{
+  background-color: #fff;
+}
+.fm li:hover a{
+  color: #2c1a8e !important;
+}
+.menu{
+  background-color: #ff0000;
+}
+.fm li a{
+  text-decoration: none;
+}
+.menu ul li{
+  display: inline-block;
+  list-style: none;
+  border-right: 1px solid #fff;
+  padding: 0 20px;
+}
+.menu ul li a{
+  text-decoration: none;
+  font-size: 18px;
+}
+.last{
+  border-right: none !important;
+}
